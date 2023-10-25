@@ -1,0 +1,18 @@
+M:Which ones are examples of programming languages?
+C: VS Code
+C: Java
+C: C++
+C: Python
+A:2,3,4
+
+S:What is the capital of France?
+C: Paris
+C: London
+C: Berlin
+A:1
+
+T:What is 7 + 3?
+A:10
+
+T:Who is the President of United State Of America?
+A:Joe Biden
